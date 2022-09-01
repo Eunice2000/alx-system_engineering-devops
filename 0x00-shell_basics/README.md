@@ -1,1 +1,1 @@
-Create a script that copies all the HTML files from the current working directory to the parent of the working directory, 
+Create a script that deletes all files in the current working directory that end with the characte
