@@ -1,2 +1,2 @@
-#!/bin/bash
-ls -pamv
+#!/bin/bash 
+ls -apm | sort -d
