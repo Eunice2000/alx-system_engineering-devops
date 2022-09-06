@@ -1,1 +1,2 @@
-Write a script that displays all users and their home directories, sorted by users
+Write a script that displays all users and their home directories, sorted by users.
+d
