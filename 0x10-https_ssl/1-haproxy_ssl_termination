@@ -37,7 +37,7 @@ frontend abdul-malik-frontend-http
         bind *:80
         mode http
 	http-request set-header X-Forwarded-Proto http
-        default_backend my-backend
+        default_backend abdul-malik-backend
 
 frontend abdul-malik-frontend-http
         bind *:443 ssl crt /etc/haproxy/certs/www.abdul-malik.tech.pem
